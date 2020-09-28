@@ -1,0 +1,2 @@
+# blog
+Organization's blog
